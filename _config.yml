@@ -3,19 +3,19 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Kiko Plus"
+name:               "Chengyq的小屋"
 
 
 
 author:
-  name:             your-name
+  name:             Chengyq
   facebook:         your-id
   twitter:          your-id
   github:           your-id
   linkedin:         your-id
   medium:           your-id
   tumblr:           your-id
-  email:            your-id@your-email.com
+  email:            chengyqmail@163.com
 
 # Google-analytics
 google-analytics:
@@ -26,7 +26,7 @@ disqus:
   id:               "your-id"
 
 # URL
-url:                "https://AWEEKJ.github.io"
+url:                "https://chengyqmail.github.io"
 #url:               "localhost:4000"
 baseurl:            ""
 
