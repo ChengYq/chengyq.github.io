@@ -47,13 +47,13 @@ All configuration is done via `_config.yml` file which you will find in your mai
 - Change this to your blog name.
 
 ```yml
-name: <blog-name>
+name: Chengyq
 ```
 
 - Change this to your domain. **NOTE**- if running locally change this to `url: "https://localhost:4000"`.
 
 ```yml
-url: "https://<your-name>.github.io"
+url: "https://chengyqmail.github.io"
 ```
 
 - Change this to your branch name where _gh-pages_ resides. !NOTE apply only if you used __Method 2__ for installation.

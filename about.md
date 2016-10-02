@@ -67,14 +67,14 @@ baseurl: "/<branch-name>"
 
 ```yml
 author:
-  name:             your-name
+  name:             chengyq
   facebook:         your-id
   twitter:          your-id
-  github:           your-id
+  github:           chengyq.github.com
   linkedin:         your-id
   medium:           your-id
   tumblr:           your-id
-  email:            your-id@your-email.com
+  email:            chengyq@163.com
 ```
 
 - Change this to your Google Analytic ID.
